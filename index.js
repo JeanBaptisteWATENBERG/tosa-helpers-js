@@ -9,7 +9,7 @@ readline_object.on("line", (value) => { //Read input values
 readline_object.on("close", ContestResponse); 
 
 String.prototype.i = function() {
-  retrun parseInt(this, 10);
+  return parseInt(this, 10);
 }
 
 String.prototype.f = function() {
