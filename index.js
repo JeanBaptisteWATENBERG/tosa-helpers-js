@@ -28,6 +28,14 @@ function pr(i) {
   }
 }
 
+function asc(a,b) {
+  return a-b
+}
+
+function desc(a,b) {
+  return b-a
+}
+
 function ContestResponse(){
   const n = input.shift().i()
   //const m = input.shift()

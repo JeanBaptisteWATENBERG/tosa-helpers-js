@@ -1,0 +1,23 @@
+21
+Sucre
+Abuja Rabat -370
+Abuja Sofia -79
+Sucre Kabul 533
+Vaduz Amman -732
+Sucre Accra -326
+Praia Abuja 741
+Dhaka Accra -709
+Rabat Dakar -993
+Lagos Cairo -532
+Kyoto Amman 494
+Amman Accra 190
+Amman Minsk -652
+Sucre Praia 425
+Quito Sucre -100
+Quito Rabat 306
+Seoul Sucre -340
+Rabat Dhaka -380
+Amman Praia 837
+Minsk Lagos -29
+Cairo Kyoto -268
+Yaren Quito -628

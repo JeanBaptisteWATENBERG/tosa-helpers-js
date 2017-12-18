@@ -1,6 +1,6 @@
 4
-RIRI
-FIFI
-2
-RIRI
-FIFI
+Paris
+Paris Tokyo -40
+Tokyo Paris -340
+Paris Osaka -520
+Osaka Tokyo -100
